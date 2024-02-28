@@ -113,8 +113,8 @@ def create_files():
     except:
         print("creating img files")
         create_img_file("PixelPestilence.mp4", hacked_mp4_video)
-        create_img_file("RogueRedstone.webp", img_walking_middle_finger_webp)
-        create_img_file("VillagerVexation.jpg", img_Anonymous_middle_finger_jpg)
+        create_img_file("RogueRedstone.webp", img_1)
+        create_img_file("VillagerVexation.jpg", img_2)
 
 def background_changer():
     current_wallpaper_path = get_wallpaper().split("\\")
