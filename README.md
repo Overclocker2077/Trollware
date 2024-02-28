@@ -1,2 +1,2 @@
-# Trollware
-Malware for the lols 
+# Malware
+Beware of Malware   
