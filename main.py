@@ -145,4 +145,4 @@ threading.Thread(target=task_kill).start()
 
 atexit.register(cleanup)
 
-# TypeError: argument of type 'CompletedProcess' is not iterable
+
